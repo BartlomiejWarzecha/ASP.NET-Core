@@ -1,0 +1,23 @@
+C:\Users\bartl\OneDrive\Desktop\OneYearOfCode\ASP.NET Core\RestaurantAPI\Restaurant API\Restaurant API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\bartl\OneDrive\Desktop\OneYearOfCode\ASP.NET Core\RestaurantAPI\Restaurant API\Restaurant API\bin\Debug\net5.0\appsettings.json
+C:\Users\bartl\OneDrive\Desktop\OneYearOfCode\ASP.NET Core\RestaurantAPI\Restaurant API\Restaurant API\bin\Debug\net5.0\Restaurant API.exe
+C:\Users\bartl\OneDrive\Desktop\OneYearOfCode\ASP.NET Core\RestaurantAPI\Restaurant API\Restaurant API\bin\Debug\net5.0\Restaurant API.deps.json
+C:\Users\bartl\OneDrive\Desktop\OneYearOfCode\ASP.NET Core\RestaurantAPI\Restaurant API\Restaurant API\bin\Debug\net5.0\Restaurant API.runtimeconfig.json
+C:\Users\bartl\OneDrive\Desktop\OneYearOfCode\ASP.NET Core\RestaurantAPI\Restaurant API\Restaurant API\bin\Debug\net5.0\Restaurant API.runtimeconfig.dev.json
+C:\Users\bartl\OneDrive\Desktop\OneYearOfCode\ASP.NET Core\RestaurantAPI\Restaurant API\Restaurant API\bin\Debug\net5.0\Restaurant API.dll
+C:\Users\bartl\OneDrive\Desktop\OneYearOfCode\ASP.NET Core\RestaurantAPI\Restaurant API\Restaurant API\bin\Debug\net5.0\ref\Restaurant API.dll
+C:\Users\bartl\OneDrive\Desktop\OneYearOfCode\ASP.NET Core\RestaurantAPI\Restaurant API\Restaurant API\bin\Debug\net5.0\Restaurant API.pdb
+C:\Users\bartl\OneDrive\Desktop\OneYearOfCode\ASP.NET Core\RestaurantAPI\Restaurant API\Restaurant API\obj\Debug\net5.0\Restaurant API.csprojAssemblyReference.cache
+C:\Users\bartl\OneDrive\Desktop\OneYearOfCode\ASP.NET Core\RestaurantAPI\Restaurant API\Restaurant API\obj\Debug\net5.0\Restaurant API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bartl\OneDrive\Desktop\OneYearOfCode\ASP.NET Core\RestaurantAPI\Restaurant API\Restaurant API\obj\Debug\net5.0\Restaurant API.AssemblyInfoInputs.cache
+C:\Users\bartl\OneDrive\Desktop\OneYearOfCode\ASP.NET Core\RestaurantAPI\Restaurant API\Restaurant API\obj\Debug\net5.0\Restaurant API.AssemblyInfo.cs
+C:\Users\bartl\OneDrive\Desktop\OneYearOfCode\ASP.NET Core\RestaurantAPI\Restaurant API\Restaurant API\obj\Debug\net5.0\Restaurant API.csproj.CoreCompileInputs.cache
+C:\Users\bartl\OneDrive\Desktop\OneYearOfCode\ASP.NET Core\RestaurantAPI\Restaurant API\Restaurant API\obj\Debug\net5.0\Restaurant API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bartl\OneDrive\Desktop\OneYearOfCode\ASP.NET Core\RestaurantAPI\Restaurant API\Restaurant API\obj\Debug\net5.0\staticwebassets\Restaurant API.StaticWebAssets.Manifest.cache
+C:\Users\bartl\OneDrive\Desktop\OneYearOfCode\ASP.NET Core\RestaurantAPI\Restaurant API\Restaurant API\obj\Debug\net5.0\staticwebassets\Restaurant API.StaticWebAssets.xml
+C:\Users\bartl\OneDrive\Desktop\OneYearOfCode\ASP.NET Core\RestaurantAPI\Restaurant API\Restaurant API\obj\Debug\net5.0\scopedcss\bundle\Restaurant API.styles.css
+C:\Users\bartl\OneDrive\Desktop\OneYearOfCode\ASP.NET Core\RestaurantAPI\Restaurant API\Restaurant API\obj\Debug\net5.0\Restaurant API.RazorTargetAssemblyInfo.cache
+C:\Users\bartl\OneDrive\Desktop\OneYearOfCode\ASP.NET Core\RestaurantAPI\Restaurant API\Restaurant API\obj\Debug\net5.0\Restaurant API.dll
+C:\Users\bartl\OneDrive\Desktop\OneYearOfCode\ASP.NET Core\RestaurantAPI\Restaurant API\Restaurant API\obj\Debug\net5.0\ref\Restaurant API.dll
+C:\Users\bartl\OneDrive\Desktop\OneYearOfCode\ASP.NET Core\RestaurantAPI\Restaurant API\Restaurant API\obj\Debug\net5.0\Restaurant API.pdb
+C:\Users\bartl\OneDrive\Desktop\OneYearOfCode\ASP.NET Core\RestaurantAPI\Restaurant API\Restaurant API\obj\Debug\net5.0\Restaurant API.genruntimeconfig.cache
