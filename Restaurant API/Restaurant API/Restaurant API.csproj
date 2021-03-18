@@ -3,6 +3,7 @@
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
     <RootNamespace>Restaurant_API</RootNamespace>
+    <UserSecretsId>19bcfa41-5c0a-4fb0-9219-0a383865eeaa</UserSecretsId>
   </PropertyGroup>
 
 </Project>
